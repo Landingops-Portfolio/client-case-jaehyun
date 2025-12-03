@@ -900,10 +900,10 @@ select {
 .pg a:focus, .pg a:hover {text-decoration:none}
 .pg_page {color:#555;font-size:13px;margin-right: -1px;width:35px;height:35px;line-height:33px;text-decoration:none;}
 .pg_page:hover{background-color:#f1f1f1}
-.pg_start {margin-right: 16px; text-indent:-999px;overflow:hidden;background:url('../img/btn_first.gif') no-repeat 50% 50% #fff;}
-.pg_prev {margin-right: 16px; text-indent:-999px;overflow:hidden;background:url('../img/btn_prev.gif') no-repeat 50% 50% #fff;}
-.pg_end {margin-left: 16px; text-indent:-999px;overflow:hidden;background:url('../img/btn_end.gif') no-repeat 50% 50% #fff;}
-.pg_next {margin-left: 16px; text-indent:-999px;overflow:hidden;background:url('../img/btn_next.gif') no-repeat 50% 50% #fff;}
+.pg_start {margin-right: 16px; text-indent:-999px;overflow:hidden;background:url('./img/btn_first.gif') no-repeat 50% 50% #fff;}
+.pg_prev {margin-right: 16px; text-indent:-999px;overflow:hidden;background:url('./img/btn_prev.gif') no-repeat 50% 50% #fff;}
+.pg_end {margin-left: 16px; text-indent:-999px;overflow:hidden;background:url('./img/btn_end.gif') no-repeat 50% 50% #fff;}
+.pg_next {margin-left: 16px; text-indent:-999px;overflow:hidden;background:url('./img/btn_next.gif') no-repeat 50% 50% #fff;}
 .pg_start + .pg_prev {margin-left: -17px;}
 .pg_next + .pg_end {margin-left: 0;}
 .pg_start:hover,.pg_prev:hover,.pg_end:hover,.pg_next:hover{background-color:#fafafa}
